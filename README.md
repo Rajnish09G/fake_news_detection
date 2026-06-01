@@ -168,7 +168,7 @@ The Passive Aggressive algorithm is:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Fake-News-Detection.git
+git clone https://github.com/Rajnish09G/Fake-News-Detection.git
 cd Fake-News-Detection
 ```
 
@@ -278,7 +278,8 @@ Through this project:
 
 ## 🤝 Contributors
 
-* Rajnish
+* Rajnish09G
+* Prem2905
 
 Feel free to contribute by creating pull requests.
 
